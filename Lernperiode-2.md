@@ -39,20 +39,6 @@ Insgesamt bin ich zufrieden, nur nächstes Mal möchte ich weniger Pausen machen
 
 24.10.2025
 
-## Grob-Planung
-### Noten
-- 
-Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
-besser vorwärts kommen
-
-### Projekte / neue Technologien
-Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
-In dieser Periode starte ich eine Website zu erstellen mit HTML/ CSS auf W3Schools. Vielleicht auch JavaScript repetieren.
-
-### Generelle Ziele
-Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
-an zukünftige Module zu arbeiten
-
 ## Feinplanung
 Heute will ich JavaScript wieder erlernen/repetieren und anschauen wie ich mit HTML und CSS Website erstellen kann.
 
@@ -64,7 +50,7 @@ Heute will ich JavaScript wieder erlernen/repetieren und anschauen wie ich mit H
 
 
 ## Lernperiode Reflexion
-
+Heute habe ich wieder angefangen, JavaScript zu lernen. Zusätzlich habe ich einige HTML- und CSS-Übungen gemacht, um mein Wissen zu festigen. Ich habe versucht, die Grundlagen besser zu verstehen und kleine Projekte umzusetzen. Besonders das Zusammenspiel von Struktur (HTML), Design (CSS) und Funktionalität (JavaScript) hat mir Spass gemacht. Ich finde, ich habe heute wirklich gut gearbeitet und bin zufrieden mit meinem Fortschritt. Morgen möchte ich mit weiteren Übungen weitermachen.
 
 
 
