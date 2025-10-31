@@ -52,6 +52,19 @@ Heute will ich JavaScript wieder erlernen/repetieren und anschauen wie ich mit H
 ## Lernperiode Reflexion
 Heute habe ich wieder angefangen, JavaScript zu lernen. Zusätzlich habe ich einige HTML- und CSS-Übungen gemacht, um mein Wissen zu festigen. Ich habe versucht, die Grundlagen besser zu verstehen und kleine Projekte umzusetzen. Besonders das Zusammenspiel von Struktur (HTML), Design (CSS) und Funktionalität (JavaScript) hat mir Spass gemacht. Ich finde, ich habe heute wirklich gut gearbeitet und bin zufrieden mit meinem Fortschritt. Morgen möchte ich mit weiteren Übungen weitermachen.
 
+31.10.2025
 
+## Feinplanung
+Heute muss ich mir für die Website einen Namen geben. Mir eine Feinplanung zur Website erstellen damit ich nichts vergesse. Dann auch noch mit Helin besprechen und schauen ob sie vielleicht Ergänzungen hat. Vielleicht noch mit der Website anfangen.
+
+
+## Planung 07.11.2025
+- [ ] mit Website anfangen 
+- [ ] an IMS-Projekt arbeiten mit Helin 
+- [ ] M162
+
+
+## Lernperiode Reflexion
+Heute habe ich in Word einen detaillierten Text erstellt, der beschreibt, welche Funktionen und Inhalte die Webseite benötigt. Danach habe ich daraus eine Checkliste entwickelt und recherchiert, um Tipps und Tricks zu finden, wie die Webseite verbessert und benutzerfreundlicher gestaltet werden kann.
 
 
