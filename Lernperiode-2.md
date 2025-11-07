@@ -70,7 +70,7 @@ Heute habe ich in Word einen detaillierten Text erstellt, der beschreibt, welche
 31.10.2025
 
 ## Feinplanung
-Heute habe ich am Modul 162, da ich am Dienstag krank war und dies nachholen muss. 
+Heute muss ich am Modul 162, da ich am Dienstag krank war und dies nachholen muss. 
 
 ## Planung 14.11.2025
 - [ ] mit Website anfangen 
