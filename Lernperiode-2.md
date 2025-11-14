@@ -67,16 +67,18 @@ Heute muss ich mir für die Website einen Namen geben. Mir eine Feinplanung zur 
 ## Lernperiode Reflexion
 Heute habe ich in Word einen detaillierten Text erstellt, der beschreibt, welche Funktionen und Inhalte die Webseite benötigt. Danach habe ich daraus eine Checkliste entwickelt und recherchiert, um Tipps und Tricks zu finden, wie die Webseite verbessert und benutzerfreundlicher gestaltet werden kann.
 
-31.10.2025
+14.11.2025
 
 ## Feinplanung
-Heute muss ich am Modul 162, da ich am Dienstag krank war und dies nachholen muss. 
+Heute bearbeite ich mit Helin unser IMS - Projekt. Ich arbeite and dem Programm und sie an der Präsentation 
 
-## Planung 14.11.2025
-- [ ] mit Website anfangen 
-- [ ] an IMS-Projekt arbeiten mit Helin 
-- [ ] Website benennen
+## Planung 21.11.2025
+- [ ] Programm fertig bringen 
+- [ ] Testfallspezifikation anfangen 
+- [ ] Präsentation detailieren 
 
 
 ## Lernperiode Reflexion
-Heute habe ich am M162 weitergearbeitet. Ich habe sehr zügig gearbeitet und bin damit sehr zufrieden.
+Heute habe ich and dem Programm gearbeitet. Ich hatte einwenig Schwierigkeiten beim erstellen einer Tabelle in der Konsole aber am Schluss habe ich es mithilfe von Chatgpt geschafft. Ich möchte nächstes Mal ein wenig wenig an ChatGPT abhängig sein um den Programm fertig zu schreiben.
+
+v
