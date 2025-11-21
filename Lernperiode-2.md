@@ -70,7 +70,7 @@ Heute habe ich in Word einen detaillierten Text erstellt, der beschreibt, welche
 14.11.2025
 
 ## Feinplanung
-Heute bearbeite ich mit Helin unser IMS - Projekt. Ich arbeite and dem Programm und sie an der Präsentation 
+Heute habe ich an m
 
 ## Planung 21.11.2025
 - [ ] Programm fertig bringen 
@@ -81,4 +81,16 @@ Heute bearbeite ich mit Helin unser IMS - Projekt. Ich arbeite and dem Programm 
 ## Lernperiode Reflexion
 Heute habe ich and dem Programm gearbeitet. Ich hatte einwenig Schwierigkeiten beim erstellen einer Tabelle in der Konsole aber am Schluss habe ich es mithilfe von Chatgpt geschafft. Ich möchte nächstes Mal ein wenig wenig an ChatGPT abhängig sein um den Programm fertig zu schreiben.
 
-v
+21.11.2025
+
+## Feinplanung
+Heute bearbeite ich mit Helin unser IMS - Projekt. Wir haben die Powerpoint Präsentation fertig und Fehler im Code korrigiert und diesen fertig geschrieben. 
+## Planung 28.11.2025
+- [ ] Präsentation Skript schreiben
+- [ ] Präsentation üben
+- [ ] an M162 schreiben
+
+
+## Lernperiode Reflexion
+Heute haben wir den Programm fertig gebracht. Wir hatten einwenig Schwierigkeiten, z.B. wenn wir unser Fehler im Code nicht verstanden haben und nicht korrigieren konnten, doch am Schluss mit Hilfe von Videos und ChatGPT geschafft. Die Powerpoint war einfach zum erstellen doch sie einwenig intressanter zu machen haben wir uns Tutorials angeschaut und so unsere Powerpoint fertiggebracht. Wir haben uns auch schon gedanken gemacht über Karteikarten oder freisprechen und wie wir präsentieren so das es möglich interessant bleibt.
+
