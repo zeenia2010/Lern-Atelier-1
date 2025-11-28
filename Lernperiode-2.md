@@ -94,3 +94,16 @@ Heute bearbeite ich mit Helin unser IMS - Projekt. Wir haben die Powerpoint Prä
 ## Lernperiode Reflexion
 Heute haben wir den Programm fertig gebracht. Wir hatten einwenig Schwierigkeiten, z.B. wenn wir unser Fehler im Code nicht verstanden haben und nicht korrigieren konnten, doch am Schluss mit Hilfe von Videos und ChatGPT geschafft. Die Powerpoint war einfach zum erstellen doch sie einwenig intressanter zu machen haben wir uns Tutorials angeschaut und so unsere Powerpoint fertiggebracht. Wir haben uns auch schon gedanken gemacht über Karteikarten oder freisprechen und wie wir präsentieren so das es möglich interessant bleibt.
 
+28.11.2025
+
+## Feinplanung
+Heute werde ich die Powerpoint neu machen, da ich unsere letzte Powerpoint verloren habe. Wenn ich noch Zeit habe, dann auch mit einen Skript angangen so das ich dann ganz einfach auf die Karteikartein abschreiben kann.
+## Planung 5.12.2025
+- [ ] Präsentation Skript schreiben
+- [ ] Präsentation neu machen
+- [ ] Code überprüfen
+
+
+## Lernperiode Reflexion
+Heute ist es ziemlich gut gegangen, leider hatte ich die Powerpoint vom letzten Mal verloren und musste neu starten. Ein wenig Schwierigkeiten hatte ich bei den Animationen und Übergängen aber habe es zusammen mit Edim gelöst. Einwenig Probleme hatte ich auch beim überlegen wie ich die Sachen in der Powerpoint möglichst stichwortartig schreiben kann aber am Schluss habe ich es geschafft die Powerpoint fertig zu machen und habe mit dem Skript angefangen.
+
