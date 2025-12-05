@@ -107,3 +107,16 @@ Heute werde ich die Powerpoint neu machen, da ich unsere letzte Powerpoint verlo
 ## Lernperiode Reflexion
 Heute ist es ziemlich gut gegangen, leider hatte ich die Powerpoint vom letzten Mal verloren und musste neu starten. Ein wenig Schwierigkeiten hatte ich bei den Animationen und Übergängen aber habe es zusammen mit Edim gelöst. Einwenig Probleme hatte ich auch beim überlegen wie ich die Sachen in der Powerpoint möglichst stichwortartig schreiben kann aber am Schluss habe ich es geschafft die Powerpoint fertig zu machen und habe mit dem Skript angefangen.
 
+5.12.2025
+
+## Feinplanung
+Zusammenfassung von Modul 162 erstellen und für die Prüfung am Dienstag vorbereiten und OBA anfangen erstellen
+
+## Planung 12.12.2025
+- [ ] M117 repetieren
+- [ ] vielleicht am Projekt weiter arbeiten
+- [ ] 
+
+
+## Lernperiode Reflexion
+Heute ist es ziemlich gut gegangen, wir sind gut vorwärts gekommen. Ich konnte die Zusammenfassung fertig schreiben und habe dies mit der Helin angeschaut. Ich muss aber ehrlich sagen ich wurde heute einwenig viel abgelenkt und heute war meine Konzentration nicht da. Aber ich habe auch mit der OBA angefangen, indem ich mir eine Statistik gefunden habe diese durchgeschaut habe und mich von Devrim informieren lassen habe wie ich es genau formulieren sollte. 
