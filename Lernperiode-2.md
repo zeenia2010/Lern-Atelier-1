@@ -133,3 +133,17 @@ Ich muss im Modul 117 weiterarbeiten.
 
 ## Lernperiode Reflexion
 Heute ist es ziemlich gut gegangen, ich bin gut voran gekommen ich habe die Aufgaben von Mittwoch repetiert und verstehe sie jetzt viel besser, weil ich mir genug Zeit genommen habe. Ich finde Pausen habe ich zu viele genommen, weil ich inzwischen immer Französisch geübt habe. Ich bin gleich voran gekommen und konnte Handlungsziel 2 abschliessen und mit 3 anfangen.
+
+5.12.2025
+
+## Feinplanung
+Ich muss im Modul 117 weiterarbeiten.
+
+## Planung 12.12.2025
+- [ ] M117 
+- [ ] M164
+- [ ] 
+
+
+## Lernperiode Reflexion
+Heute ist es ziemlich gut gegangen, ich bin gut voran gekommen ich habe die Aufgaben von Mittwoch repetiert und fertig gemacht, weil ich mir genug Zeit genommen habe. Ich finde Pausen habe ich zu viele genommen, weil ich inzwischen immer Französisch geübt habe. Ich finde nächstes Mal muss ich mehr konzentriert arbeiten.
