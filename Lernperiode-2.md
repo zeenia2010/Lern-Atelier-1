@@ -120,30 +120,40 @@ Zusammenfassung von Modul 162 erstellen und für die Prüfung am Dienstag vorber
 
 ## Lernperiode Reflexion
 Heute ist es ziemlich gut gegangen, wir sind gut vorwärts gekommen. Ich konnte die Zusammenfassung fertig schreiben und habe dies mit der Helin angeschaut. Ich muss aber ehrlich sagen ich wurde heute einwenig viel abgelenkt und heute war meine Konzentration nicht da. Aber ich habe auch mit der OBA angefangen, indem ich mir eine Statistik gefunden habe diese durchgeschaut habe und mich von Devrim informieren lassen habe wie ich es genau formulieren sollte. 
-5.12.2025
+
+12.12.2025
 
 ## Feinplanung
 Ich muss im Modul 117 weiterarbeiten.
 
-## Planung 12.12.2025
+## Planung 19.12.2025
 - [ ] M117 weiterarbeiten
 - [ ] einen Projekt starten
 - [ ] 
 
-
 ## Lernperiode Reflexion
 Heute ist es ziemlich gut gegangen, ich bin gut voran gekommen ich habe die Aufgaben von Mittwoch repetiert und verstehe sie jetzt viel besser, weil ich mir genug Zeit genommen habe. Ich finde Pausen habe ich zu viele genommen, weil ich inzwischen immer Französisch geübt habe. Ich bin gleich voran gekommen und konnte Handlungsziel 2 abschliessen und mit 3 anfangen.
 
-5.12.2025
+19.12.2025
 
 ## Feinplanung
 Ich muss im Modul 117 weiterarbeiten.
 
-## Planung 12.12.2025
+## Lernperiode Reflexion
+Heute ist es ziemlich gut gegangen, ich bin gut voran gekommen ich habe die Aufgaben von Mittwoch repetiert und fertig gemacht, weil ich mir genug Zeit genommen habe. Ich finde Pausen habe ich zu viele genommen, weil ich inzwischen immer Französisch geübt habe. Ich finde nächstes Mal muss ich mehr konzentriert arbeiten.
+
+09.01.2026
+
+## Feinplanung
+Ich muss im Modul 117 Handlungsziel 1 ganz sicher abschliessen und mit Handlungsziel 2 weiter machen damit ich am Mittwoch stressfrei abgeben kann. Und für das Modul 117 muss ich unbedingt wieder alles durch schauen und vielleicht einen Lernzettel schreiben um mich auf eine Überraschungsprüfung zu vorbereiten. 
+
+## Planung 18.01.2026
 - [ ] M117 
 - [ ] M164
 - [ ] 
 
 
 ## Lernperiode Reflexion
-Heute ist es ziemlich gut gegangen, ich bin gut voran gekommen ich habe die Aufgaben von Mittwoch repetiert und fertig gemacht, weil ich mir genug Zeit genommen habe. Ich finde Pausen habe ich zu viele genommen, weil ich inzwischen immer Französisch geübt habe. Ich finde nächstes Mal muss ich mehr konzentriert arbeiten.
+
+
+
