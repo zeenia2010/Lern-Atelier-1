@@ -37,15 +37,16 @@ Ich bin sehr gut vorangekommen konnte im Modul 117 Handlungsziel 1 komplett absc
 23.01.2026
 
 ## Feinplanung
-Ich muss unbeding am Modul 117 arbeiten, da wir ja bald die Prüfung im Labor haben ich 
+Ich muss unbeding am Modul 117 arbeiten, da wir ja bald die Prüfung im Labor haben.
 
 
-## Planung 16.01.2026
-- [ ]  
+
+## Planung 15.02.2026
+- [ ]  M117
 - [ ] 
 - [ ] 
 
 
 ## Lernperiode Reflexion
-
+Ich finde ich bin gut voran gekommen ich konnte Handlungsziel 5&6 fast fertig erledigen nur noch ein Dokument zum abgeben. Diesmal habe ich gut argebeitet und habe auch probiert es zu verstehen indem ich videos von den Powerpoints angeschaut habe. Ich habe gemerkt das das viel mehr hilft obohl manchmal der man sehr langsam redet
 
