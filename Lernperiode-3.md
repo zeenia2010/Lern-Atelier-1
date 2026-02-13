@@ -46,7 +46,18 @@ Ich muss unbeding am Modul 117 arbeiten, da wir ja bald die Prüfung im Labor ha
 - [ ] 
 - [ ] 
 
+13.02.2026
+
+## Feinplanung
+Ich muss M117 zusammenfassen also alles aus den Präsentationen, aus den Dokumenten damit ich es mehrmals durchlesen kann und mich auf die Prüfung nächsten Mittwoch vorbereiten kann und dazu noch ein Dokument im M117 lösen damit ich voran komme, da die Abgabe übernächste Woche ist. 
+
+## Planung 23.01.2026
+- [ ] M117 HZ 1-7
+- [ ] M164 
+- [ ] 
 
 ## Lernperiode Reflexion
-Ich finde ich bin gut voran gekommen ich konnte Handlungsziel 5&6 fast fertig erledigen nur noch ein Dokument zum abgeben. Diesmal habe ich gut argebeitet und habe auch probiert es zu verstehen indem ich videos von den Powerpoints angeschaut habe. Ich habe gemerkt das das viel mehr hilft obohl manchmal der man sehr langsam redet
+Ich bin sehr gut vorangekommen vorallem heute im Learningspace mit dem Monitor, ich konnte das Dokument 1728 M117 fertig lösen und die Zusammenfassung erstellt.
+
+
 
