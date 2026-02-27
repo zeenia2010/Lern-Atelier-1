@@ -68,4 +68,16 @@ Heute muss ich im M117 Handlungsziel 3 fertig machen, da die Abgabe nächste Woc
 ## Lernperiode Reflexion
 Ich bin sehr gut vorangekommen ich konnte im M117 drei Dokumente bearbeiten und abschliessen (1719, 1720, 1721). Ich bin leider nicht am Projekt arbeiten ich konnte nur eine komplette Checkliste erstellen was ich noch alles zu tun habe im Projekt damit ich es am Wochenende abschliessen kann.
 
+27.02.2026
+
+## Feinplanung
+Ich muss einen Kurs oder so auf Khan Academy finden um daran zu arbeiten im Lernatelier.
+
+## Planung 03.03.2026
+- [ ]  
+- [ ] 
+- [ ] 
+
+## Lernperiode Reflexion
+
 
