@@ -155,7 +155,7 @@ Ich muss im Modul 117 Handlungsziel 1 ganz sicher abschliessen und mit Handlungs
 ## Lernperiode Reflexion
 Ich bin sehr gut vorangekommen konnte im Modul 117 Handlungsziel 1 komplett abschliessen und auch im Handlungsziel 2 fast alles erledigen. Für das Modul 117 habe ich alle Dokumente nochmal angeschaut und geübt da wir vielleicht eine Überraschungsprüfung haben könnten
 
-## Lernperiode Reflexion
+
 09.01.2026
 
 ## Feinplanung
