@@ -73,7 +73,7 @@ Ich bin sehr gut vorangekommen ich konnte im M117 drei Dokumente bearbeiten und 
 ## Feinplanung
 Ich muss im Modul 106 bis und mit Dokument 2408 fertig bearbeiten und auf Khan Academy den Kurs "SQL-Grundlagen" fertig bearbeiten. Ich war heute wegen dem Bajram-Gebet erst um 9.25Uhr in der Schule deswegen muss ich noch zuhause nacharbeiten.
 
-## Planung 03.03.2026
+## Planung 27.03.2026
 - [ ]  M106 Dokument 2408
 - [ ] Kurs SQL-Grundlagen  beenden
 - [ ] nacharbeiten 
@@ -81,3 +81,13 @@ Ich muss im Modul 106 bis und mit Dokument 2408 fertig bearbeiten und auf Khan A
 ## Lernperiode Reflexion
 Ich finde, ich habe heute ganz gut gearbeitet, auch wenn ich etwas später gekommen bin. Am Anfang war es ein bisschen schwierig, ins Thema reinzukommen, aber nach etwa 20 Minuten konnte ich mich richtig konzentrieren und habe gut weiterarbeiten können. Mit den Aufträgen bei M106 bin ich fertig geworden, worüber ich mich freue. Beim Khan Academy-Kurs bin ich noch nicht ganz durch, aber den Rest werde ich zuhause noch erledigen. Zwischendurch hatte ich ein paar kleine Schwierigkeiten bei manchen Aufgaben, aber meistens konnte ich sie selbst lösen, indem ich nachgedacht oder ausprobiert habe, was am besten passt. Insgesamt bin ich zufrieden damit, wie ich gearbeitet habe. Nächstes Mal möchte ich versuchen, noch schneller ins Thema zu kommen und meine Zeit noch besser zu nutzen, damit ich alles gut schaffe.
 
+27.03.2026
+
+## Feinplanung
+Ich muss im Modul 187 arbeiten und mich für den test vorereiten und einen neuen Kurs finden,
+## Planung 03.04.2026
+- [ ]  
+- [ ] 
+- [ ]  
+
+## Lernperiode Reflexion
