@@ -31,6 +31,7 @@
 - [X] M231
 - [ ] HTML/ CSS
 
+(Heute habe ich... (50-100 Wörter))
 
 ### Planung 23.08.2024
 3 bis 5 klar messbare Arbeitspakete.
