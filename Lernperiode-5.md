@@ -1,4 +1,4 @@
-# Lern-Periode 5 / 6 / 7 / 8
+# Lern-Periode 5 
 
 - Name: Zeenia Khan
 - Zeitraum: 14.08.2026 bis tt.mm.jjjj
@@ -23,14 +23,13 @@
 
 ## Tagesplanungen
 
-### Planung 14.08.2024
+### Planung 14.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
-
-(Heute habe ich... (50-100 Wörter))
+- [ ] M322
+- [ ] M320 
+- [X] M231
+- [ ] HTML/ CSS
 
 
 ### Planung 23.08.2024
