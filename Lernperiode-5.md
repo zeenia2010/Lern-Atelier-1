@@ -28,7 +28,7 @@
 
 - [ ] M322
 - [ ] M320 
-- [X] M231
+- [] M231
 - [ ] HTML/ CSS
 
 
@@ -37,7 +37,7 @@
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
-- [X] Viertes AP
+- [] Viertes AP
 
 (Heute habe ich... (50-100 Wörter))
 
