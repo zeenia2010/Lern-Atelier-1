@@ -31,14 +31,14 @@
 - [X] M231
 - [ ] HTML/ CSS
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich die Aufträge die ich erledigen musste in den obengenannten Modulen M322, M320 und M231 erledigen musste erledigt. 
 
 ### Planung 23.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [] Viertes AP
+- [ ] M320 Kapitel 1 fertig arbeiten 
+- [ ] M320 Zusammenfassung erstellen
+- [ ] M231 HZ 2 Einen Passwortmanager einsetzen: LA_231_1714_Passwortmanager erledigen und abgeben
 
 (Heute habe ich... (50-100 Wörter))
 
