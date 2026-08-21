@@ -1,7 +1,7 @@
 # Lern-Periode 5 
 
 - Name: Zeenia Khan
-- Zeitraum: 14.08.2026 bis tt.mm.jjjj
+- Zeitraum: 14.08.2026 bis 21.08.2026
 - 
 ## Grob-Planung
 
@@ -40,8 +40,7 @@ Heute habe ich die Aufträge die ich erledigen musste in den obengenannten Modul
 - [ ] M320 Zusammenfassung erstellen
 - [ ] M231 HZ 2 Einen Passwortmanager einsetzen: LA_231_1714_Passwortmanager erledigen und abgeben
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich meine geplanten Arbeitspakete erledigt. Im Modul M320 habe ich Kapitel 1 vollständig bearbeitet und die Zusammenfassung erstellt. Danach konnte ich sogar schon mit Kapitel 2 weiterarbeiten. Im Modul M231 habe ich die Aufgabe HZ 2 „Einen Passwortmanager einsetzen“ mit dem Lernauftrag LA_231_1714_Passwortmanager fertiggestellt und abgegeben. Zusätzlich habe ich im Modul M322 die Dokumente, die ich bereits bearbeitet hatte, abgegeben. Insgesamt konnte ich heute mehr erledigen als ursprünglich geplant.
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+
 
