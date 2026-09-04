@@ -50,6 +50,16 @@ Heute habe ich meine geplanten Arbeitspakete erledigt. Im Modul M320 habe ich Ka
 Heute bin ich mit den Dokumenten von Kapitel 2 fertig geworden und konnte auch den dazugehörigen Nachweis lösen. Zusätzlich habe ich bereits mit Kapitel 3 angefangen und mir bisher einige PowerPoint-Präsentationen kurz angeschaut, jedoch noch nicht alle bearbeitet. Bei M231 habe ich die PowerPoints durchgearbeitet und die Aufgabe LA_231_1715_AAA 
 Heute habe ich eher langsam gearbeitet, da ich mich nebenbei auch etwas auf die Finanzprüfung vorbereitet habe und ziemlich müde bin. Beim nächsten Mal möchte ich wieder effizienter arbeiten
 
+### Planung 04.08.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] M320 Kapitel 3 Anfangen 
+- [ ] LA_Basisklasse.docx
+- [ ] LA_Hierarchie.docx
+
+--
+
+
 
 
 
