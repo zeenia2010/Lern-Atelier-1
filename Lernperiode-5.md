@@ -56,6 +56,8 @@ Heute habe ich eher langsam gearbeitet, da ich mich nebenbei auch etwas auf die 
 - [ ] M320 Kapitel 3 Anfangen 
 - [ ] LA_Basisklasse.docx
 - [ ] LA_Hierarchie.docx
+- [ ] mehr an 320 arbeiten
+- [ ] weniger 231
 
 --
 
